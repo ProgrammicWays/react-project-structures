@@ -1,2 +1,2 @@
-# react-project-sturctures
+# react-project-structures
  

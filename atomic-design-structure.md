@@ -1,0 +1,23 @@
+src/
+|---- atoms/
+|------- Button/
+|--------- Button.tsx
+|--------- Button.styles.ts
+|---- molecules/
+|------- Form/
+|--------- Form.tsx
+|--------- Form.styles.ts
+|---- organism/
+|------- Header/
+|--------- Header.tsx
+|--------- Header.styles.ts
+|---- templates/
+|------- thee-column-layout/
+|--------- thee-column-layout.tsx
+|--------- thee-column-layout.styles.ts
+|---- pages/
+|------- Home/
+|--------- home.tsx
+|--------- home.ts
+|---- App.tsx
+|---- index.tsx
