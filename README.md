@@ -96,18 +96,18 @@
         |---------- reducers/
         |---------- actions/
         |---------- slices/
-|-------- feature2/
-|---------- services/
-|---------- reducers/
-|---------- actions/
-|---------- reducers/
-|---------- slices/
-|---- store/
-|-------- configureStore.ts/
-|---- styles/
-|---- assets/
-|---- utils/
-|---- services/
-|---- App.tsx
-|---- index.tsx
+        |-------- feature2/
+        |---------- services/
+        |---------- reducers/
+        |---------- actions/
+        |---------- reducers/
+        |---------- slices/
+        |---- store/
+        |-------- configureStore.ts/
+        |---- styles/
+        |---- assets/
+        |---- utils/
+        |---- services/
+        |---- App.tsx
+        |---- index.tsx
 
